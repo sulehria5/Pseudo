@@ -1,0 +1,74 @@
+p:first-child a{
+  color:blue;
+}
+/* besuchter link */
+p:first-child a:visited {
+  color: green;
+  
+}
+/* mouse over link */
+p:first-child a:hover {
+  color: hotpink;
+}
+/* ausgewählter link */
+p:first-child a:active {
+  color: blue;
+}
+/***********************************/
+p:nth-child(2) a{
+   color: red;
+}
+p:nth-child(2) a:visited{
+  color: aqua;
+
+}
+p:nth-child(2) a:hover{
+  color: beige;
+}
+p:nth-child(2) a:active{
+  color: blueviolet;
+}
+
+/*************************************/
+p:nth-child(3) a{
+  color: brown;
+}
+p:nth-child(3) a:visited{
+  color: orange;
+}
+p:nth-child(3)a:hover{
+  color: aquamarine;
+
+}
+p:nth-child(3) a:active{
+  color: blanchedalmond;
+}
+
+/****************************************/
+p:nth-child(4) a{
+  color: black;
+}
+p:nth-child(4) a:visited{
+  color: lime;
+}
+p:nth-child(4) a:hover{
+  color: lemonchiffon:
+}
+p:nth-child(4) a:active{
+  color: lightseagreen;
+}
+
+/****************************************/
+p:nth-child(5) a{
+  color: salmon;
+}
+p:nth-child(5) a:visited{
+  color: darkkhaki;
+}
+p:nth-child(5) a:hover{
+  color: sandybrown;
+}
+p:nth-child(5) a:active{
+  color: antiquewhite;
+}
+/******************************************/
